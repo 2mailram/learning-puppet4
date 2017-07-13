@@ -1,4 +1,5 @@
 learning-puppet4
+
 ================
 
 <a href="http://shop.oreilly.com/product/0636920034131.do" target="OReilly"><img alt="Learning MCollective cover" src="http://akamaicovers.oreilly.com/images/0636920034131/cat.gif" align="left"></a>
