@@ -10,11 +10,12 @@ This repository contains components used in the
 O'Reilly Media, Inc  
 [http://shop.oreilly.com/product/0636920034131.do](http://shop.oreilly.com/product/0636920034131.do)  
 ISBN: [978-1-4919-0766-5](http://shop.oreilly.com/product/0636920034131.do)  
+
 <br clear="all" />
 
 ## Description
 
 This repository contains a Vagrantfile and sample resources
 used for creation of the testing environment used in the Learning Puppet 4 book.
-
+adding new users in 
 # learning-puppet4
